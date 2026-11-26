@@ -1,0 +1,8 @@
+JN FOTO — PUBLICAÇÃO
+1. Extraia o ZIP. Mantenha index.html e moldura.png juntos.
+2. Crie um repositório público no GitHub (ex.: jn-foto).
+3. Envie index.html e moldura.png para a raiz do repositório.
+4. Settings > Pages > Deploy from a branch > main > / (root) > Save.
+5. Abra o endereço HTTPS exibido em Pages e teste câmera, galeria, salvar e compartilhar no Android e iPhone.
+6. Após validar, use o endereço definitivo para criar o QR Code.
+A câmera precisa de HTTPS ou localhost. Não há servidor de fotos. O compartilhamento depende do navegador; se indisponível, salve e publique manualmente. A foto é recortada centralmente em 9:16. Não há ajuste manual de enquadramento nesta versão.
